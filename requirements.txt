@@ -1,0 +1,10 @@
+# Core deep learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Image processing
+Pillow>=9.0.0
+
+# NLP / BLEU scoring
+nltk>=3.8.0
+streamlit>=1.30.0
